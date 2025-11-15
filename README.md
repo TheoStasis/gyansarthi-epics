@@ -27,7 +27,7 @@ Clone this repository to your local machine:
 git clone <repository-url>
 cd gyansarthi
 ```
-
+URl: https://github.com/TheoStasis/gyansarthi-epics.git
 Replace `<repository-url>` with the actual URL of this repository.
 
 ### Step 2: Install Dependencies
